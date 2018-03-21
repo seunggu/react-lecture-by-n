@@ -1,0 +1,24 @@
+{
+  "name": "react-lecture-by-n",
+  "version": "1.0.0",
+  "description": "사내 React 스터디",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-app": "^1.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seunggu/react-lecture-by-n.git"
+  },
+  "keywords": [],
+  "author": "seunggu <imaster0209@naver.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seunggu/react-lecture-by-n/issues"
+  },
+  "homepage": "https://github.com/seunggu/react-lecture-by-n#readme"
+}
